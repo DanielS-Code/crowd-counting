@@ -1,0 +1,1 @@
+{"learning_rate": 0.1, "momentum": 0.95, "decay": 0, "augmentation_type": null, "reduction": "mean", "start_epoch": 53, "pretrained": "data/ckpt/temp_model_vanilla_using_mean_loss.pth.tar"}
